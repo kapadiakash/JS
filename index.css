@@ -1,0 +1,44 @@
+/* h1{
+    color: red;
+    background-color: black;
+}
+
+body{
+    background-color: coral;
+}
+
+#box{
+    height: 250px;
+    width: 100px;
+    background-color: dodgerblue;
+    color:white;
+    border: 1px solid black;
+}
+#newBtn{
+    width: 200px;
+    height: 20px;
+}
+.content{
+    color: red;
+}
+.newClass{
+    background-color: green;
+}
+
+div{
+    border: 1px solid green;
+    height: 90px;
+    width: 90px;
+    background-color: aqua;
+}
+
+i{
+    height: 20px;
+    border: 1px solid red;
+    width: 80px;
+    background-color:brown;
+}
+
+ .class{
+    display: inline-block;
+} */
